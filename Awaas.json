@@ -12,5 +12,12 @@
     "password": "12345",
     "expiresAt": "2026-05-16",
     "allowOffline": false 
-  }
+  },
+    {
+    "id": "1b1472b08622881e",
+    "username": "anon",
+    "password": "1",
+    "expiresAt": "2026-08-16",
+    "allowOffline": false 
+    }
 ]
